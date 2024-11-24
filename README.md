@@ -3,7 +3,7 @@
 
 # Motorcycle Remote Start and Immobilizer System using ESP32
 
-A project that transforms a classic Honda CB500 motorcycle into a modern, tech-enabled machine by implementing a **remote start system** and an **immobilizer feature** using an ESP32 microcontroller. This system allows users to remotely control their motorcycle via an Android phone and includes advanced security measures.
+This project contains a remote starter and immobilizer system for motorcycles using an ESP32 microcontroller with Bluetooth connectivity. The system enables secure, remote control of the motorcycle's ignition and starter via an Android app, enhancing both convenience and security.
 
 ---
 
